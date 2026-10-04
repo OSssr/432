@@ -53,3 +53,7 @@ a = 24
 print(a)
 print(a + b)
 c = 234
+
+print(a)
+print(a + b)
+c = 234
